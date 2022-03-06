@@ -1,0 +1,30 @@
+header {
+    background-color: #121746;
+    padding: 20px 0px 20px 0px;
+    display: flex;
+    /* justify-content: end; */
+    margin-top: 0;
+    padding-right: 20px;
+}
+
+
+header > div {
+    list-style: none;
+    color: white;
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header > img {
+    padding-left: 10px;
+}
+
+div:hover {
+    text-decoration: underline;
+}
+
+#home {
+    margin-left: auto;
+}

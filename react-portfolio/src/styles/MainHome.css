@@ -1,0 +1,49 @@
+.img {
+    text-align: center;
+    padding-top: 10px;
+}
+.info {
+    text-align: center;
+    color: white;
+}
+
+p:hover {
+    text-decoration: none;
+}
+
+#main {
+    background-image: url("../images/Technology.jpg");
+    /* height: 500px; */
+    background-position: center;
+    background-size: cover;
+}
+
+#main:hover {
+    text-decoration: none;
+}
+
+p {
+    font-weight: bold
+}
+
+#name {
+    font-size: 48px;
+    text-decoration: none;
+}
+#name-title {
+    font-size: 40px;
+    text-decoration: none;
+}
+
+button {
+    background-color: green;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
