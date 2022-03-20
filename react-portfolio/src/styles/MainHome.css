@@ -13,7 +13,7 @@ p:hover {
 
 #main {
     background-image: url("../images/Technology.jpg");
-    /* height: 500px; */
+    height: 350px;
     background-position: center;
     background-size: cover;
 }

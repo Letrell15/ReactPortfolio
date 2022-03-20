@@ -21,10 +21,16 @@ header > img {
     padding-left: 10px;
 }
 
-div:hover {
+header > div:hover {
     text-decoration: underline;
 }
 
 #home {
     margin-left: auto;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
